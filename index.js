@@ -1,0 +1,1 @@
+let packageName = "templater";
